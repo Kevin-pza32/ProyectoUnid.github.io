@@ -1,0 +1,99 @@
+header{
+    font-size: 50px;
+    text-align: center;
+    background-color: lightyellow;
+    margin: 0 auto;
+    border-radius: 50px;
+}
+
+section{
+    font-size: 25px;
+    
+}
+
+main{
+    font-family: 'Times New Roman', Times, serif;
+    width: 1350px;
+    margin: 0 auto;
+
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border: 5px solid green;
+}
+
+body{
+    background-color: lightblue;
+}
+
+.linea{
+    display: flex;
+    align-items: baseline;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.linea2{
+    display: flex;
+    align-items: baseline;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.linea p{
+    margin-left: 40px;
+}
+
+.linea2 p{
+    padding: 0 20px 0 20px;
+    border-left: thick solid gray;
+    margin: 0 20px 0 20px;;
+    border-right: thick solid gray;
+}
+
+.linea2 p{ 
+    text-align: center;
+}
+
+.linea2{
+    margin-top: 70px;
+}
+
+
+aside{
+    background-color: pink;
+    margin: 0 20px 0 20px;
+    width: 700px;
+    font-size: 15px;
+    text-align: left;
+    padding-right: 20px;
+}
+
+.hola{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+footer{
+    margin: 40px;
+    text-align: center;
+    background-color: bisque;
+    font-size: 20px;
+    color: brown;
+}
+
+footer a{
+    display: block;
+    padding-bottom: 10px;
+}
+
+footer p{
+    margin: 10px 0 10px 0;
+}
+
